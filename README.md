@@ -15,3 +15,6 @@
 * `git branch branchName` - create local branch `branchName`
 * `git checkout branchName` - switch to branch `branchName`
 * `git checkout -b branchName` - create and switch to branch `branchName`
+
+### Remote Commands
+* `git remote add alias url` - add new remote `url` with alias `alias`
